@@ -1,2 +1,2 @@
 # rust-book
-Rust Book implementation
+Rust Book implementation: https://rust-book.cs.brown.edu
